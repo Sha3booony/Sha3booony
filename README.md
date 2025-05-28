@@ -11,11 +11,9 @@
 
 - 👯 I’m looking to collaborate on **open-source Flutter packages and tools**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@yourusername)
-
 - 💬 Ask me about **Flutter, Dart, Firebase, BLoC, GetX, Clean Architecture**
 
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **sha3booony@gmail.com**
 
 - ⚡ Fun fact: *I believe clean code = happy users 😄*
 
