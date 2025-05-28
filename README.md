@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 - 💼 Senior Flutter Developer with 4+ years of experience building robust, scalable, and beautiful cross-platform apps.
-- 🔭 Currently working on **next-gen mobile applications** using **Flutter** and **Firebase**.
+- 🔭 Currently working on **next-gen mobile applications** using **Flutter**.
 - 🌱 Always exploring **advanced state management**, **performance tuning**, and **modular architectures**.
 - 💬 Let’s talk about **Flutter, Dart, Firebase, BLoC, GetX, Riverpod, Clean Architecture, UI/UX, animations**.
 - ✨ Passionate about writing clean code, reusable components, and pixel-perfect UIs.
@@ -19,7 +19,7 @@
 ## 🔧 Tech Stack
 
 ```dart
-• 💙 Flutter & Dart (since 2019)
+• 💙 Flutter & Dart (since 2020)
 • 🔥 Firebase (Auth, Firestore, Cloud Functions, Messaging)
 • 🎯 State Management: BLoC, GetX, Riverpod, Provider
 • 🧱 Clean Architecture & Modular Design
