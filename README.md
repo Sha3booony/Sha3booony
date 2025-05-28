@@ -29,7 +29,7 @@
 - Clean Architecture, BLoC, GetX, Provider
 - CI/CD with GitHub Actions & CodeMagic
 - Git, GitHub, Bitbucket
-- Native Android (basic), Swift (basic)
+- Native Android (basic)
 ```
 
 ---
@@ -37,7 +37,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedshaaban&show_icons=true&theme=tokyonight" alt="stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ahmedshaaban&show_icons=true&theme=tokyonight" alt="stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshaaban&theme=tokyonight" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshaaban&layout=compact&theme=tokyonight" alt="languages" />
 </p>
@@ -47,7 +47,6 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" /></a>
-  <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" /></a>
+  <a href="https://linkedin.com/in/sha3booony" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
+  <a href="mailto:sha3booony@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" /></a>
 </p>
