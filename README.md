@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshaaban&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshaaban&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
